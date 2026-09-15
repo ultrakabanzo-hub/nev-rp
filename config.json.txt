@@ -1,0 +1,6 @@
+{
+  "server_ip": "127.0.0.1",
+  "server_port": 8904,
+  "launcher_version": "1.0.0",
+  "update_url": "https://example.com"
+}
